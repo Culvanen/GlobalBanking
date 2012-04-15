@@ -12,6 +12,7 @@ public class Globalbank extends JavaPlugin implements Listener {
 
     public void onEnable() {
         getServer().getPluginManager().registerEvents(this, this);
+        // TODO: Add logger
     }
 
     @EventHandler
