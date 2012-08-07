@@ -32,5 +32,35 @@
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.spout.api</groupId>
+            <artifactId>spoutpluginapi-dev-SNAPSHOT</artifactId>
+            <version>525</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>net.milkbowl.vault</groupId>
+            <artifactId>vault</artifactId>
+            <version>1.2.15</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>org.getspout</groupId>
+            <artifactId>spoutapi</artifactId>
+            <version>623</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>org.getspout</groupId>
+            <artifactId>spout</artifactId>
+            <version>891</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>org.getspout</groupId>
+            <artifactId>spoutplugin</artifactId>
+            <version>1093</version>
+            <type>jar</type>
+        </dependency>
     </dependencies>
 </project>

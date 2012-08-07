@@ -1,0 +1,13 @@
+author: Tjs238
+database: false
+description: GlobalBank is inspired by the RuneScape/WoW style banking. In these games
+  you have multiple Banks across the world. You can go to a bank and there is many
+  storage chest slots for you to store your items. You can purchase extra storage
+  if needed. The items are then safe and you can withdraw and deposit items at any
+  Bank in your world!
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.tjs238.plugins.globalbank.Globalbank
+name: GlobalBank
+startup: postworld
+url: http://diamondcraft.co/
+version: '1.0'

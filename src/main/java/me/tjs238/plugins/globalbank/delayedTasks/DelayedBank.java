@@ -26,11 +26,13 @@ public class DelayedBank implements Runnable {
 	public Player p;
 	public Globalbank b;
 	SpoutPlayer sp;
+        Player pl;
 
 	public DelayedBank(Player p, Globalbank b) {
 		this.p = p;
 		this.b = b;
 		this.sp = SpoutManager.getPlayer(p);
+                this.pl = SpoutManager.getPlayer(p);
 	}
 
 	@Override
